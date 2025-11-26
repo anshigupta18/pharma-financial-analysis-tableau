@@ -183,7 +183,7 @@ The dashboard provides a clean, executive-friendly view of:
 
 ## Dashboard Preview
 Place your Tableau screenshot in:  
-`"C:\Users\gansh\Downloads\Dashboard 1.png"`
+![Dashboard Image](Dashboard 1.png)
 
 Then link it here:
 
