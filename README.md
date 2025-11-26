@@ -182,11 +182,8 @@ The dashboard provides a clean, executive-friendly view of:
 ---
 
 ## Dashboard Preview
-Place your Tableau screenshot in:  
-![Dashboard Image](Dashboard 1.png)
-
-Then link it here:
-
-```markdown
-![Tableau Dashboard](images/dashboard.png)
+![Dashboard Image](Dashboard1.png)
+## Tableau Dashboard  
+🔗 **View Interactive Dashboard:**  
+https://public.tableau.com/app/profile/anshika.gupta7229/viz/TopIndianPharmaCompaniesRevenueAnalysis/Dashboard1
 
